@@ -1,3 +1,5 @@
+书里没有习题，但我想把所有代码都亲手敲一遍。
+
 ## Perface
 
 > This book can be read in just a day or two but, obviously, there is much more to writing good C++ than can be learned in that amount of time.
