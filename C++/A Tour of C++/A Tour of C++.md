@@ -8,3 +8,5 @@
 such as Programming: Principles and Practice Using C++ (Second edition)
 
 这本书是教如何编程，只是选择了用C++而已。
+
+programming styles：object-oriented and generic programming。
